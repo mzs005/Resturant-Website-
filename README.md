@@ -9,3 +9,5 @@ Food Menu: A detailed menu section displaying various food items with descriptio
 Testimonials: Customer testimonials with star ratings and customer photos.
 Contact: A contact form for users to get in touch with the restaurant.
 Footer: A footer with copyright information.
+
+
